@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Data Acquisition</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="connect">
+
+        <item>Modbus</item>
+        <item>Led_display</item>
+        <item>ZigBee</item>
+        <item>北斗定位</item>
+        <item>UHF_RFID</item>
+    </string-array>
+
+    <string-array name="led_device">
+        <item>Led_display</item>
+    </string-array>
+
+    <string-array name="modbus_devices">
+
+        <item>RS485_4150</item>
+        <item>RS485_4017</item>
+        <item>RS485_RGB</item>
+
+
+    </string-array>
+
+    <string-array name="modbus_device_sensor">
+
+        <item>DI0</item>
+        <item>DI1</item>
+        <item>DI2</item>
+        <item>DI3</item>
+        <item>DI4</item>
+        <item>DI5</item>
+        <item>DI6</item>
+
+    </string-array>
+
+    <string-array name="modbus_device_kong">
+
+        <item>DO0</item>
+        <item>DO1</item>
+        <item>DO2</item>
+        <item>DO3</item>
+        <item>DO4</item>
+        <item>DO5</item>
+        <item>DO6</item>
+        <item>DO7</item>
+
+    </string-array>
+
+    <string-array name="modbus_kong">
+
+        <item>风扇</item>
+        <item>照明灯</item>
+        <item>警示灯</item>
+        <item>三色灯</item>
+        <item>电动推杆</item>
+
+    </string-array>
+
+    <string-array name="modbus_sensor">
+
+        <item>人体红外</item>
+        <item>烟雾</item>
+        <item>红外对射</item>
+        <item>微动开关</item>
+        <item>限位开关</item>
+        <item>行程开关</item>
+        <item>接近开关</item>
+
+    </string-array>
+
+    <string-array name="modbus_4017_sensor">
+
+        <item>温度</item>
+        <item>湿度</item>
+        <item>二氧化碳</item>
+        <item>噪音</item>
+        <item>光照</item>
+        <item>风速</item>
+        <item>重力</item>
+
+    </string-array>
+
+    <string-array name="modbus_4017_vin">
+
+        <item>VIN0</item>
+        <item>VIN1</item>
+        <item>VIN2</item>
+        <item>VIN3</item>
+        <item>VIN4</item>
+        <item>VIN5</item>
+        <item>VIN6</item>
+        <item>VIN7</item>
+
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+
+</resources>

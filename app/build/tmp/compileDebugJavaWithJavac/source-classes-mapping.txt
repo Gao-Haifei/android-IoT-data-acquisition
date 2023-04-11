@@ -1,0 +1,214 @@
+com/example/thingsboard/databinding/SpinnerItemBinding.java
+ com.example.thingsboard.databinding.SpinnerItemBinding
+com/example/thingsboard/databinding/ActivityDevices4017Binding.java
+ com.example.thingsboard.databinding.ActivityDevices4017Binding
+com/example/thingsboard/databinding/MenuFragementBinding.java
+ com.example.thingsboard.databinding.MenuFragementBinding
+com/example/thingsboard/databinding/Modbus4017SensorBinding.java
+ com.example.thingsboard.databinding.Modbus4017SensorBinding
+com/example/thingsboard/databinding/RecyclerItemBinding.java
+ com.example.thingsboard.databinding.RecyclerItemBinding
+com/example/thingsboard/databinding/ActivityDevicesRgbBinding.java
+ com.example.thingsboard.databinding.ActivityDevicesRgbBinding
+com/example/thingsboard/databinding/BeidouItemBinding.java
+ com.example.thingsboard.databinding.BeidouItemBinding
+com/example/menu/Add_Connect.java
+ com.example.menu.Add_Connect
+ com.example.menu.Add_Connect$1
+com/example/thingsboard/databinding/LedDisplayDialogBinding.java
+ com.example.thingsboard.databinding.LedDisplayDialogBinding
+com/example/fragement/Led_fragement.java
+ com.example.fragement.Led_fragement
+ com.example.fragement.Led_fragement$1
+ com.example.fragement.Led_fragement$MyRecycler
+ com.example.fragement.Led_fragement$MyRecycler$1
+ com.example.fragement.Led_fragement$MyRecycler$ViewHolder
+com/example/thingsboard/databinding/HistoryDataBinding.java
+ com.example.thingsboard.databinding.HistoryDataBinding
+com/example/thingsboard/databinding/PopupwindowBinding.java
+ com.example.thingsboard.databinding.PopupwindowBinding
+com/example/thingsboard/databinding/LedItemDataBinding.java
+ com.example.thingsboard.databinding.LedItemDataBinding
+com/example/thingsboard/databinding/ModbusSensorDialogBinding.java
+ com.example.thingsboard.databinding.ModbusSensorDialogBinding
+com/example/thingsboard/databinding/ModbusKongDialogBinding.java
+ com.example.thingsboard.databinding.ModbusKongDialogBinding
+com/example/thingsboard/databinding/ColorPickBinding.java
+ com.example.thingsboard.databinding.ColorPickBinding
+com/example/thingsboard/databinding/ActivityHistoryBinding.java
+ com.example.thingsboard.databinding.ActivityHistoryBinding
+com/example/thingsboard/databinding/ActivityMainBinding.java
+ com.example.thingsboard.databinding.ActivityMainBinding
+com/example/thingsboard/databinding/RecyclerDevice4017Binding.java
+ com.example.thingsboard.databinding.RecyclerDevice4017Binding
+com/example/thingsboard/BuildConfig.java
+ com.example.thingsboard.BuildConfig
+com/example/thingsboard/databinding/AddDevicesBinding.java
+ com.example.thingsboard.databinding.AddDevicesBinding
+com/example/menu/Connect.java
+ com.example.menu.Connect
+ com.example.menu.Connect$1
+ com.example.menu.Connect$2
+com/example/thingsboard/databinding/AddConnectBinding.java
+ com.example.thingsboard.databinding.AddConnectBinding
+com/example/thingsboard/databinding/LedDataFragementBinding.java
+ com.example.thingsboard.databinding.LedDataFragementBinding
+com/example/devices/Devices_RGB.java
+ com.example.devices.Devices_RGB
+ com.example.devices.Devices_RGB$1
+ com.example.devices.Devices_RGB$2
+ com.example.devices.Devices_RGB$3
+ com.example.devices.Devices_RGB$4
+ com.example.devices.Devices_RGB$MyDialog
+ com.example.devices.Devices_RGB$MyDialog$1
+ com.example.devices.Devices_RGB$MyDialog$2
+ com.example.devices.Devices_RGB$mDialog
+ com.example.devices.Devices_RGB$mDialog$1
+ com.example.devices.Devices_RGB$mDialog$2
+com/example/thingsboard/databinding/LedFragementBinding.java
+ com.example.thingsboard.databinding.LedFragementBinding
+com/example/bianji/led_fragement.java
+ com.example.bianji.led_fragement
+ com.example.bianji.led_fragement$1
+ com.example.bianji.led_fragement$2
+ com.example.bianji.led_fragement$Led_Dialog
+ com.example.bianji.led_fragement$MyRecycler
+ com.example.bianji.led_fragement$MyRecycler$1
+ com.example.bianji.led_fragement$MyRecycler$2
+ com.example.bianji.led_fragement$MyRecycler$Viewholder
+ com.example.bianji.led_fragement$bianji_Led_Dialog
+ com.example.bianji.led_fragement$bianji_connect
+ com.example.bianji.led_fragement$bianji_connect$1
+ com.example.bianji.led_fragement$bianji_connect$2
+com/example/thingsboard/databinding/ModbusConnectBinding.java
+ com.example.thingsboard.databinding.ModbusConnectBinding
+com/example/thingsboard/databinding/ActivityDataBinding.java
+ com.example.thingsboard.databinding.ActivityDataBinding
+com/example/devices/Devices_4150.java
+ com.example.devices.Devices_4150
+ com.example.devices.Devices_4150$1
+ com.example.devices.Devices_4150$2
+ com.example.devices.Devices_4150$3
+ com.example.devices.Devices_4150$Kong_dialog
+ com.example.devices.Devices_4150$Kong_dialog$1
+ com.example.devices.Devices_4150$Kong_dialog$2
+ com.example.devices.Devices_4150$Kong_dialog$3
+ com.example.devices.Devices_4150$Kong_dialog$4
+ com.example.devices.Devices_4150$Kong_dialog$5
+ com.example.devices.Devices_4150$Recycler_adapter
+ com.example.devices.Devices_4150$Recycler_adapter$1
+ com.example.devices.Devices_4150$Recycler_adapter$2
+ com.example.devices.Devices_4150$Recycler_adapter$3
+ com.example.devices.Devices_4150$Recycler_adapter$4
+ com.example.devices.Devices_4150$Recycler_adapter$ViewHolder
+ com.example.devices.Devices_4150$bianji_Dialog
+ com.example.devices.Devices_4150$bianji_Dialog$1
+ com.example.devices.Devices_4150$bianji_Dialog$2
+ com.example.devices.Devices_4150$bianji_Dialog$3
+ com.example.devices.Devices_4150$bianji_Kong_dialog
+ com.example.devices.Devices_4150$bianji_Kong_dialog$1
+ com.example.devices.Devices_4150$bianji_Kong_dialog$2
+ com.example.devices.Devices_4150$bianji_Kong_dialog$3
+ com.example.devices.Devices_4150$bianji_Kong_dialog$4
+ com.example.devices.Devices_4150$bianji_Kong_dialog$5
+ com.example.devices.Devices_4150$mDialog
+ com.example.devices.Devices_4150$mDialog$1
+ com.example.devices.Devices_4150$mDialog$2
+ com.example.devices.Devices_4150$mDialog$3
+com/example/thingsboard/databinding/LedItemBinding.java
+ com.example.thingsboard.databinding.LedItemBinding
+com/example/thingsboard/databinding/BianjiConnectBinding.java
+ com.example.thingsboard.databinding.BianjiConnectBinding
+com/example/thingsboard/databinding/BianjiBeidouBinding.java
+ com.example.thingsboard.databinding.BianjiBeidouBinding
+com/example/devices/Devices_4017.java
+ com.example.devices.Devices_4017
+ com.example.devices.Devices_4017$1
+ com.example.devices.Devices_4017$2
+ com.example.devices.Devices_4017$Sensor_4017_dialog
+ com.example.devices.Devices_4017$Sensor_4017_dialog$1
+ com.example.devices.Devices_4017$Sensor_4017_dialog$2
+ com.example.devices.Devices_4017$Sensor_4017_dialog$3
+ com.example.devices.Devices_4017$bianji_4017_dialog
+ com.example.devices.Devices_4017$bianji_4017_dialog$1
+ com.example.devices.Devices_4017$bianji_4017_dialog$2
+ com.example.devices.Devices_4017$bianji_4017_dialog$3
+ com.example.devices.Devices_4017$mRecycler
+ com.example.devices.Devices_4017$mRecycler$1
+ com.example.devices.Devices_4017$mRecycler$2
+ com.example.devices.Devices_4017$mRecycler$mViewHolder
+com/example/thingsboard/databinding/DeviceListBinding.java
+ com.example.thingsboard.databinding.DeviceListBinding
+com/example/thingsboard/databinding/ModbusRgbBinding.java
+ com.example.thingsboard.databinding.ModbusRgbBinding
+com/example/thingsboard/databinding/ActivityDevices4150Binding.java
+ com.example.thingsboard.databinding.ActivityDevices4150Binding
+com/example/thingsboard/databinding/SensorBinding.java
+ com.example.thingsboard.databinding.SensorBinding
+com/example/bianji/modbus_fragement.java
+ com.example.bianji.modbus_fragement
+ com.example.bianji.modbus_fragement$1
+ com.example.bianji.modbus_fragement$2
+ com.example.bianji.modbus_fragement$Adapter
+ com.example.bianji.modbus_fragement$Adapter$1
+ com.example.bianji.modbus_fragement$Adapter$2
+ com.example.bianji.modbus_fragement$Adapter$3
+ com.example.bianji.modbus_fragement$Adapter$ViewHolder
+ com.example.bianji.modbus_fragement$bianji_Dialog
+ com.example.bianji.modbus_fragement$bianji_Dialog$1
+ com.example.bianji.modbus_fragement$bianji_Dialog$2
+ com.example.bianji.modbus_fragement$bianji_connect
+ com.example.bianji.modbus_fragement$bianji_connect$1
+ com.example.bianji.modbus_fragement$bianji_connect$2
+ com.example.bianji.modbus_fragement$bianji_connect$3
+ com.example.bianji.modbus_fragement$mDialog
+ com.example.bianji.modbus_fragement$mDialog$1
+ com.example.bianji.modbus_fragement$mDialog$2
+com/example/bianji/beidou_fragement.java
+ com.example.bianji.beidou_fragement
+ com.example.bianji.beidou_fragement$1
+ com.example.bianji.beidou_fragement$MyRecyclerView
+ com.example.bianji.beidou_fragement$MyRecyclerView$ViewHolder
+ com.example.bianji.beidou_fragement$add_beidou_device
+ com.example.bianji.beidou_fragement$bianji_connect
+ com.example.bianji.beidou_fragement$bianji_connect$1
+ com.example.bianji.beidou_fragement$bianji_connect$2
+com/example/thingsboard/databinding/BianjiModbusBinding.java
+ com.example.thingsboard.databinding.BianjiModbusBinding
+com/example/fragement/Modbus_fragement.java
+ com.example.fragement.Modbus_fragement
+ com.example.fragement.Modbus_fragement$1
+ com.example.fragement.Modbus_fragement$MyRecyclerView
+ com.example.fragement.Modbus_fragement$MyRecyclerView$1
+ com.example.fragement.Modbus_fragement$MyRecyclerView$2
+ com.example.fragement.Modbus_fragement$MyRecyclerView$3
+ com.example.fragement.Modbus_fragement$MyRecyclerView$4
+ com.example.fragement.Modbus_fragement$MyRecyclerView$5
+ com.example.fragement.Modbus_fragement$MyRecyclerView$6
+ com.example.fragement.Modbus_fragement$MyRecyclerView$ViewHolder
+ com.example.fragement.Modbus_fragement$Recive_thread
+ com.example.fragement.Modbus_fragement$Recive_thread$1
+ com.example.fragement.Modbus_fragement$Recive_thread$2
+ com.example.fragement.Modbus_fragement$hanlder
+ com.example.fragement.Modbus_fragement$mDialog
+ com.example.fragement.Modbus_fragement$mDialog$1
+ com.example.fragement.Modbus_fragement$mDialog$2
+ com.example.fragement.Modbus_fragement$mThread
+com/example/thingsboard/History.java
+ com.example.thingsboard.History
+ com.example.thingsboard.History$1
+ com.example.thingsboard.History$2
+ com.example.thingsboard.History$MAdapter
+ com.example.thingsboard.History$MyRecyclerView
+ com.example.thingsboard.History$MyRecyclerView$ViewHolder
+com/example/data/Data.java
+ com.example.data.Data
+ com.example.data.Data$1
+ com.example.data.Data$2
+ com.example.data.Data$MySQL
+com/example/thingsboard/Menu.java
+ com.example.thingsboard.Menu
+ com.example.thingsboard.Menu$1
+ com.example.thingsboard.Menu$mAdapter
+ com.example.thingsboard.Menu$mAdapter$mViewHolder
+ com.example.thingsboard.Menu$mAdapter$mViewHolder$1

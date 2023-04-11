@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/activity_data.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/activity_data.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/led_data_fragement.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/led_data_fragement.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/modbus_rgb.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/modbus_rgb.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/spinner_item.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/spinner_item.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/led_item.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/led_item.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/beidou_item.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/beidou_item.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/modbus_kong_dialog.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/modbus_kong_dialog.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/modbus_sensor_dialog.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/modbus_sensor_dialog.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/bianji_beidou.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/bianji_beidou.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/bianji_connect.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/bianji_connect.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/activity_devices4017.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/activity_devices4017.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/activity_history.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/recycler_device_4017.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/recycler_device_4017.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/recycler_item.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/recycler_item.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/activity_devices4150.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/activity_devices4150.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/menu_fragement.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/menu_fragement.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/popupwindow.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/popupwindow.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/modbus_4017_sensor.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/modbus_4017_sensor.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/led_fragement.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/led_fragement.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/modbus_connect.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/modbus_connect.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/led_display_dialog.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/led_display_dialog.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/activity_devices_rgb.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/activity_devices_rgb.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/activity_main.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/bianji_modbus.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/bianji_modbus.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/color_pick.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/color_pick.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/device_list.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/device_list.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/led_item_data.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/led_item_data.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/add__connect.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/add__connect.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/sensor.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/sensor.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/history_data.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/history_data.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-mergeDebugResources-18:/layout/add_devices.xml",
+        "source": "com.example.thingsboard.app-main-21:/layout/add_devices.xml"
+    }
+]

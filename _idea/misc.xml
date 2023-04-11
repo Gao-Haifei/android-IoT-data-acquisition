@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/LiFei/OneDrive/Work/Code/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/activity_data.xml" value="0.2755208333333333" />
+        <entry key="..\:/LiFei/OneDrive/Work/Code/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/activity_devices4017.xml" value="0.2755208333333333" />
+        <entry key="..\:/LiFei/OneDrive/Work/Code/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/activity_history.xml" value="0.2755208333333333" />
+        <entry key="..\:/LiFei/OneDrive/Work/Code/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/activity_main.xml" value="0.2755208333333333" />
+        <entry key="..\:/LiFei/OneDrive/Work/Code/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/add__connect.xml" value="0.2755208333333333" />
+        <entry key="..\:/LiFei/OneDrive/Work/Code/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/add_devices.xml" value="0.2755208333333333" />
+        <entry key="..\:/LiFei/OneDrive/Work/Code/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/bianji_modbus.xml" value="0.2755208333333333" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/drawable/bianji_modbus.xml" value="0.131" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/drawable/btn_view.xml" value="0.2222222222222222" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/drawable/btn_view2.xml" value="0.131" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/drawable/data_view.xml" value="0.2222222222222222" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/drawable/data_view2.xml" value="0.2222222222222222" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/drawable/edtext.xml" value="0.24351851851851852" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/drawable/layout.xml" value="0.24166666666666667" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/drawable/view.xml" value="0.2222222222222222" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/activity_data.xml" value="0.22554347826086957" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/activity_devices4017.xml" value="0.2427536231884058" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/activity_devices4150.xml" value="0.14285714285714285" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/activity_devices_rgb.xml" value="0.2168284789644013" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/activity_history.xml" value="0.1142857142857143" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/activity_main.xml" value="0.18857142857142858" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/activity_maps.xml" value="0.2246376811594203" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/add__connect.xml" value="0.18857142857142858" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/add_devices.xml" value="0.18857142857142858" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/beidou_item.xml" value="0.2449074074074074" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/bianji_beidou.xml" value="0.2439814814814815" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/bianji_connect.xml" value="0.2246376811594203" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/bianji_modbus.xml" value="0.24456521739130435" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/color_pick.xml" value="0.18857142857142858" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/connect_recycler_item.xml" value="0.3828571428571429" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/device_list.xml" value="0.18857142857142858" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/edtext.xml" value="0.2449074074074074" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/fragment_add__connect.xml" value="0.18857142857142858" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/fragment_blank.xml" value="0.12824074074074074" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/history_data.xml" value="0.28315946348733234" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/led_data_fragement.xml" value="0.21784420289855072" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/led_display_dialog.xml" value="0.18857142857142858" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/led_fragement.xml" value="0.24456521739130435" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/led_item.xml" value="0.22509057971014493" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/led_item_data.xml" value="0.22509057971014493" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/menu_fragement.xml" value="0.6847457627118644" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/menu_frament.xml" value="0.2449074074074074" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/modbus_4017_sensor.xml" value="0.2427536231884058" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/modbus_connect.xml" value="0.22554347826086957" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/modbus_fragment.xml" value="0.18857142857142858" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/modbus_kong_dialog.xml" value="0.2857142857142857" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/modbus_rgb.xml" value="0.2857142857142857" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/modbus_sensor_dialog.xml" value="0.18857142857142858" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/popupwindow.xml" value="0.2857142857142857" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/recycler_device_4017.xml" value="0.2427536231884058" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/recycler_item.xml" value="0.14285714285714285" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/sensor.xml" value="0.2857142857142857" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/layout/spinner_item.xml" value="0.2439814814814815" />
+        <entry key="..\:/Work/Android Project/GuoSai/ThingsBoard/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.124" />
+        <entry key="app/src/main/res/layout/activity_data.xml" value="0.14907407407407408" />
+        <entry key="app/src/main/res/layout/activity_devices4017.xml" value="0.14907407407407408" />
+        <entry key="app/src/main/res/layout/activity_devices4150.xml" value="0.14907407407407408" />
+        <entry key="app/src/main/res/layout/activity_devices_rgb.xml" value="0.30185185185185187" />
+        <entry key="app/src/main/res/layout/activity_history.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.30185185185185187" />
+        <entry key="app/src/main/res/layout/add__connect.xml" value="0.30185185185185187" />
+        <entry key="app/src/main/res/layout/add_devices.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/layout/beidou_item.xml" value="0.30185185185185187" />
+        <entry key="app/src/main/res/layout/bianji_beidou.xml" value="0.30185185185185187" />
+        <entry key="app/src/main/res/layout/bianji_connect.xml" value="0.30185185185185187" />
+        <entry key="app/src/main/res/layout/bianji_modbus.xml" value="0.30185185185185187" />
+        <entry key="app/src/main/res/layout/color_pick.xml" value="0.30185185185185187" />
+        <entry key="app/src/main/res/layout/device_list.xml" value="0.30185185185185187" />
+        <entry key="app/src/main/res/layout/history_data.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/led_data_fragement.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/layout/led_display_dialog.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/layout/led_fragement.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/layout/led_item.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/layout/led_item_data.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/layout/menu_fragement.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/layout/modbus_4017_sensor.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/layout/modbus_connect.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/layout/modbus_kong_dialog.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/layout/modbus_rgb.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/layout/modbus_sensor_dialog.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/layout/popupwindow.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/layout/recycler_device_4017.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/layout/recycler_item.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/layout/sensor.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/layout/spinner_item.xml" value="0.18888888888888888" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

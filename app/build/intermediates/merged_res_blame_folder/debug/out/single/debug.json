@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_modbus_sensor_dialog.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\modbus_sensor_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_beidou_item.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\beidou_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_led_display_dialog.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\led_display_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\drawable_open.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\drawable\\open.png"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\drawable_os.jpg.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\drawable\\os.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_modbus_connect.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\modbus_connect.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_history_data.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\history_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_activity_devices4017.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\activity_devices4017.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\drawable_stop.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\drawable\\stop.png"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_recycler_device_4017.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\recycler_device_4017.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\drawable_layout.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\drawable\\layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_activity_devices4150.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\activity_devices4150.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\drawable_right.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\drawable\\right.png"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\drawable_cha.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\drawable\\cha.png"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\drawable_close.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\drawable\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_bianji_beidou.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\bianji_beidou.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_modbus_kong_dialog.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\modbus_kong_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_activity_data.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\activity_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\drawable_view.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\drawable\\view.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_led_item.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\led_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_modbus_rgb.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\modbus_rgb.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_device_list.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\device_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\drawable_bian.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\drawable\\bian.png"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_activity_devices_rgb.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\activity_devices_rgb.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\drawable_left.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\drawable\\left.png"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\drawable_b.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\drawable\\b.png"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_menu_fragement.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\menu_fragement.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\drawable_s.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\drawable\\s.png"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_bianji_modbus.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\bianji_modbus.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\drawable_menu.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\drawable\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\drawable_data_view.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\drawable\\data_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.thingsboard.app-merged_res-19:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.thingsboard.app-main-21:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_led_item_data.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\led_item_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_led_fragement.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\led_fragement.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\drawable_data.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\drawable\\data.png"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_bianji_connect.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\bianji_connect.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_led_data_fragement.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\led_data_fragement.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\drawable_btn_view.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\drawable\\btn_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\drawable_data_view2.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\drawable\\data_view2.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\drawable_connect.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\drawable\\connect.png"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_add__connect.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\add__connect.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\drawable_bg.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\drawable_edtext.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\drawable\\edtext.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_spinner_item.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_recycler_item.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\recycler_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_color_pick.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\color_pick.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_add_devices.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\add_devices.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_popupwindow.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\popupwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_sensor.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\sensor.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\layout_modbus_4017_sensor.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\layout\\modbus_4017_sensor.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-merged_res-19:\\drawable_btn_view2.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.thingsboard.app-main-21:\\drawable\\btn_view2.xml"
+    }
+]

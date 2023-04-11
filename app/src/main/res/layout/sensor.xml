@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+
+
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/one"
+        android:layout_width="160dp"
+        android:layout_height="160dp">
+
+        <FrameLayout
+            android:id="@+id/f_one"
+            android:layout_width="160dp"
+            android:background="@drawable/data_view"
+            android:layout_height="160dp">
+            <TextView
+                android:id="@+id/sensor_name"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="名称"
+                android:gravity="center"
+                android:textSize="25sp"
+                android:textColor="@color/black"/>
+            <TextView
+                android:id="@+id/sensor_value"
+                android:layout_marginTop="80dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Value:true"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:textColor="@color/black"/>
+
+            <TextView
+                android:id="@+id/sensor_apitag"
+                android:layout_marginTop="50dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ApiTag:microswitch"
+                android:gravity="center"
+                android:textSize="17sp"
+                android:textColor="@color/black"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+                android:layout_marginTop="85dp"
+                android:gravity="center"
+                android:id="@+id/dddd"
+                android:visibility="gone"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/left"
+                    android:visibility="visible"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:background="@drawable/left"
+                    android:layout_gravity="center_horizontal"/>
+
+                <ImageButton
+                    android:layout_marginLeft="10dp"
+                    android:id="@+id/stop"
+                    android:visibility="visible"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:background="@drawable/stop"
+                    android:layout_gravity="center_horizontal"/>
+
+                <ImageButton
+                    android:layout_marginLeft="10dp"
+                    android:id="@+id/right"
+                    android:visibility="visible"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:background="@drawable/right"
+                    android:layout_gravity="center_horizontal"/>
+
+            </LinearLayout>
+
+            <ImageButton
+                android:visibility="gone"
+                android:id="@+id/relay_switch"
+                android:layout_width="50dp"
+                android:layout_height="25dp"
+                android:background="@drawable/close"
+                android:layout_marginTop="85dp"
+                android:layout_gravity="center_horizontal"/>
+
+            <TextView
+                android:id="@+id/sensor_time"
+                android:layout_marginTop="115dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Time:HH:mm:ss"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:textColor="@color/black"/>
+        </FrameLayout>
+
+
+
+    </androidx.cardview.widget.CardView>
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/two"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:visibility="visible">
+
+
+        <FrameLayout
+            android:id="@+id/f_two"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:background="@drawable/data_view2">
+            <TextView
+                android:id="@+id/tv_rgb_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="名称"
+                android:textColor="@color/black"
+                android:textSize="25sp" />
+
+            <TextView
+                android:id="@+id/tv_rgb_color"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="80dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@color/black"
+                android:gravity="center"
+                android:text="选择颜色"
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_rgb_apitag"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="50dp"
+                android:gravity="center"
+                android:text="ApiTag:microswitch"
+                android:textColor="@color/black"
+                android:textSize="17sp" />
+
+            <TextView
+                android:id="@+id/send_color"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="120dp"
+                android:background="#B69393"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:gravity="center"
+                android:text="发送颜色"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp" />
+        </FrameLayout>
+
+
+
+
+    </androidx.cardview.widget.CardView>
+
+
+</LinearLayout>
